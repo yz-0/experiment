@@ -15,3 +15,5 @@ Change in master during work-2
 
 Work-2, after changing master branch
 
+master branch, after adding lib/ folder in gh-pages branch
+
