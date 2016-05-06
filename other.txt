@@ -1,2 +1,4 @@
 Other text file
 
+Some changes
+
