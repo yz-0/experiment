@@ -21,3 +21,5 @@ master branch, after adding other.txt in gh-pages branch
 
 The same change, in both gh-host and master branches
 
+Change on master branch, to be merged into gh-pages branch later on
+
