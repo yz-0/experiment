@@ -17,3 +17,5 @@ Work-2, after changing master branch
 
 master branch, after adding lib/ folder in gh-pages branch
 
+master branch, after adding other.txt in gh-pages branch
+
