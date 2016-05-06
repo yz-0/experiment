@@ -19,3 +19,5 @@ master branch, after adding lib/ folder in gh-pages branch
 
 master branch, after adding other.txt in gh-pages branch
 
+The same change, in both gh-host and master branches
+
