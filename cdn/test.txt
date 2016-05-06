@@ -1,0 +1,17 @@
+Test.txt
+
+Created under master branch
+
+Working in work branch, before receiving hotfix
+
+Hotfix in hotfix branch
+
+Some more work after finishing hotfix
+
+Work-2, before changing master branch
+
+
+Change in master during work-2
+
+Work-2, after changing master branch
+
