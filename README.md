@@ -42,3 +42,11 @@ ab-compensation-transparency-toolkit
         ...               development assets.
 
 ```
+
+## Development procedures
+... Under construction ...
+### Make changes to source code in lib/ directory
+### Apply changes to cdn/lib/ subdirectory
+### Make toolkit self-hosting package
+### gh-pages branch pull from master branch
+
