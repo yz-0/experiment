@@ -38,7 +38,7 @@ ab-compensation-transparency-toolkit
 │   └───attach          : Sample attachment files.
 │            ...
 │
-└───test                : Html pages similar to demo, but uses relative URLs to reference local development assets.
-        ...
+└───test                : Html pages similar to demo, but uses relative URLs to reference local 
+        ...               development assets.
 
 ```
