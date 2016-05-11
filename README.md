@@ -12,15 +12,15 @@ The toolkit is powered by [Papa Parse](http://papaparse.com/) and [jsGrid](http:
 The CSV file contains columns defined in the [implementation guide](http://abgov.github.io/ab-compensation-transparency-toolkit/), and the toolkit uses Papa Parse to convert the data to an array of JSON objects.
 ```
 [{
-   PublicSectorBody : "Public Sector Body 1",
-   Position : "Senior Manager",
-   Name : "Lever,Mackenzie",
-   Year : "2015",
-   Compensation : "152001.00",
-   Other : "200.00",
-   Severance : "0.00",
-   ContractAttachment : "",
-   TerminationAttachment : "attach/termination/T-XXXXX.pdf"
+   "PublicSectorBody" : "Public Sector Body 1",
+   "Position" : "Senior Manager",
+   "Name" : "Lever,Mackenzie",
+   "Year" : "2015",
+   "Compensation" : "152001.00",
+   "Other" : "200.00",
+   "Severance" : "0.00",
+   "ContractAttachment" : "",
+   "TerminationAttachment" : "attach/termination/T-XXXXX.pdf"
   },
   { ... },
   ...
