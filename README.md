@@ -5,7 +5,29 @@ For instructions, see the implementation guide at: http://abgov.github.io/ab-com
 
 ## Overview
 
-The Alberta Compensation Transparency Toolkit is a JavaScript toolkit built to simplify the process of setting up a rich interactive grid for compensation transparency web pages. With the data from a CSV file, the toolkit automatically generates a table that comes with paging, navigation, sorting and filtering functionality.
+The Alberta Compensation Transparency Toolkit is a JavaScript toolkit built to simplify the process of setting up a rich interactive grid for compensation transparency web pages. With the data from a CSV file, it automatically generates a table that comes with paging, navigation, sorting and filtering functionality.
+
+The toolkit is powered by [Papa Parse](http://papaparse.com/) and [jsGrid](http://js-grid.com/), both are open source projects under MIT license.
+
+The CSV file contains columns defined in the implementation guide, and the toolkit uses Papa Parse to convert the data to an array of JSON objects.
+```
+[{
+   PublicSectorBody : "Public Sector Body 1",
+   Position : "Senior Manager",
+   Name : "Lever,Mackenzie",
+   Year : "2015",
+   Compensation : "152001.00",
+   Other : "200.00",
+   Severance : "0.00",
+   ContractAttachment : "",
+   TerminationAttachment : "attach/termination/T-XXXXX.pdf"
+  },
+  { ... },
+  ...
+]
+```
+
+The toolkit then uses jsGrid to generate the table from the JSON array.
 
 ## Branches
 - `master` contains the source code and documents undergoing development.
