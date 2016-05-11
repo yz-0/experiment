@@ -3,6 +3,14 @@ Open Source toolkit to support disclosures under Alberta's Public Sector Compens
 
 For instructions, see the implementation guide at: http://abgov.github.io/ab-compensation-transparency-toolkit/
 
+## Overview
+
+The Alberta Compensation Transparency Toolkit is a JavaScript toolkit built to simplify the process of setting up a rich interactive grid for compensation transparency web pages. With the data from a CSV file, the toolkit automatically generates a table that comes with paging, navigation, sorting and filtering functionality.
+
+## Branches
+- `master` contains the source code and documents undergoing development.
+- `gh-pages` pulls from `master`, as the published versions of the toolkit.
+
 ## Project structure
 ```
 ab-compensation-transparency-toolkit
