@@ -33,7 +33,7 @@ The CSV file contains columns defined in the [implementation guide](http://abgov
 ab-compensation-transparency-toolkit
 │
 │   index.html         : Documentation page.
-│   template.xlsx      : Empty template Excel file for creating CSV
+│   template.xlsx      : Empty template Excel file for creating CSV.
 │   ab-compensation-transparency-toolkit-all.zip
 │                      : Toolkit package for self-hosting.
 │
