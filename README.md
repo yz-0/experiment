@@ -25,7 +25,7 @@ The CSV file contains columns defined in the [implementation guide](http://abgov
   },
   { ... },
   ...
-]
+];
 ```
 
 ## Project structure
