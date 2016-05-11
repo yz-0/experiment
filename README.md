@@ -78,6 +78,8 @@ Bugs and other issues can be reported to the GitHub project [issue tracker](http
 
 If you wish to customize the solution or contribute fixes, the `master` branch will receive more frequent updates and is best suited for local testing and debugging.
 
+Please submit a ticket to the [issue tracker](https://github.com/abgov/ab-compensation-transparency-toolkit/issues) before committing any source code change, so that it will be easier to review and merge.
+
 ## License
 
 Code licensed under a [modified MIT](https://raw.githubusercontent.com/abgov/ab-compensation-transparency-toolkit/gh-pages/LICENSE) license.
