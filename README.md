@@ -28,10 +28,6 @@ The CSV file contains columns defined in the [implementation guide](http://abgov
 ]
 ```
 
-## Branches
-- `master` contains the source code and documents undergoing development.
-- `gh-pages` pulls from `master`, as the published versions of the toolkit.
-
 ## Project structure
 ```
 ab-compensation-transparency-toolkit
@@ -72,10 +68,14 @@ ab-compensation-transparency-toolkit
 
 ```
 
-## Development procedures
-... Under construction ...
-### Make changes to source code in lib/ directory
-### Apply changes to cdn/lib/ subdirectory
-### Make toolkit self-hosting package
-### gh-pages branch pull from master branch
+## Branches
+- `master` contains the source code and documents undergoing development.
+- `gh-pages` pulls from `master`, as the published versions of the toolkit.
+
+## How to contribute
+
+Bugs and other issues can be reported to the GitHub project [issue tracker](https://github.com/abgov/ab-compensation-transparency-toolkit/issues).
+
+If you wish to customize the solution or contribute fixes, the `master` branch will receive more frequent updates and is best suited for local testing and debugging.
+
 
