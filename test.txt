@@ -29,3 +29,5 @@ Change after fork 20160607.
 
 Change after pull.
 
+Change after config setting.
+
