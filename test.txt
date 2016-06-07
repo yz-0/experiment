@@ -26,3 +26,6 @@ Change on master branch, to be merged into gh-pages branch later on
 Change after fork.
 
 Change after fork 20160607.
+
+Change after pull.
+
