@@ -26,6 +26,7 @@ Change on master branch, to be merged into gh-pages branch later on
 Change after fork.
 
 Change in a sequence # 1.
+Change in a sequence # 2.
 Change after fork 20160607.
 
 Change after pull.
